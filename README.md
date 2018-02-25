@@ -1,2 +1,4 @@
 # hello-world
-moikka moi
+hi
+
+Studying Computer Science.
